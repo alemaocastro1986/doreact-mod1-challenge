@@ -1,0 +1,12 @@
+nav {
+  display: flex;
+  background: #3b5998;
+  justify-content: center;
+  align-items: center;
+  height: 45px;
+}
+
+nav strong {
+  font-size: 25pxpx;
+  color: #fff;
+}

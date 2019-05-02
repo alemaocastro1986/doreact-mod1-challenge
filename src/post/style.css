@@ -1,0 +1,11 @@
+li.post {
+  padding: 25px;
+  margin-top: 20px;
+}
+
+li.post p {
+  margin-top: 20px;
+  font-size: 15px;
+
+  color: #66686e;
+}

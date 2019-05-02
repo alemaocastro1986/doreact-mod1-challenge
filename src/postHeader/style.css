@@ -1,0 +1,28 @@
+div.postHeader {
+  display: flex;
+  align-items: center;
+}
+
+div.postHeader img {
+  width: 60px;
+  height: 60px;
+
+  border-radius: 50%;
+}
+
+div.postHeader div.info {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+}
+
+div.postHeader div.info strong {
+  color: #50545b;
+  font-size: 15px;
+}
+
+div.postHeader div.info span {
+  color: #8f949c;
+  font-size: 13px;
+  margin-top: 5px;
+}
